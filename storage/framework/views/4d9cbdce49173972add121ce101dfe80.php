@@ -12,6 +12,8 @@
         Home Page
      <?php $__env->endSlot(); ?>
     <h1>Home page 🏠🏡</h1>
+
+
  <?php echo $__env->renderComponent(); ?>
 <?php endif; ?>
 <?php if (isset($__attributesOriginal23a33f287873b564aaf305a1526eada4)): ?>
@@ -21,4 +23,5 @@
 <?php if (isset($__componentOriginal23a33f287873b564aaf305a1526eada4)): ?>
 <?php $component = $__componentOriginal23a33f287873b564aaf305a1526eada4; ?>
 <?php unset($__componentOriginal23a33f287873b564aaf305a1526eada4); ?>
-<?php endif; ?><?php /**PATH /home/amin/Desktop/Code/laravel-example/resources/views/home.blade.php ENDPATH**/ ?>
+<?php endif; ?>
+<?php /**PATH /home/amin/Desktop/Code/laravel-example/resources/views/home.blade.php ENDPATH**/ ?>

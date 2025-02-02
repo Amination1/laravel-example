@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c41bd562-b3a8-4ba4-96ba-9150a63d1490" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/components/nav-link.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/job.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/jobs.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/database/database.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/components/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/4d9cbdce49173972add121ce101dfe80.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/4d9cbdce49173972add121ce101dfe80.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/604c098dc94c88c536791898eb9322d3.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/604c098dc94c88c536791898eb9322d3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/views/65952907a462048a5dca2a59fe00f42b.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/65952907a462048a5dca2a59fe00f42b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +149,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2sUW83vFxrsEUoRmu5vxWsvwjmr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -151,7 +162,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/amin/Desktop/Code/laravel-example",
+    "last_opened_file_path": "/home/amin/Desktop/Code/laravel-example/resources/views",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -161,6 +172,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
@@ -185,7 +201,7 @@
       <updated>1738510471682</updated>
       <workItem from="1738510474188" duration="307000" />
       <workItem from="1738510790315" duration="2382000" />
-      <workItem from="1738521368047" duration="1493000" />
+      <workItem from="1738521368047" duration="5914000" />
     </task>
     <servers />
   </component>
