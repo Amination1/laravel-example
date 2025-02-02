@@ -1,0 +1,1 @@
+<a <?php echo e($attributes); ?>><?php echo e($slot); ?></a><?php /**PATH /home/amin/Desktop/Code/laravel-example/resources/views/components/nav-link.blade.php ENDPATH**/ ?>
